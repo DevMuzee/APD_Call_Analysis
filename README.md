@@ -145,3 +145,13 @@ pd.set_option('display.max_columns', None)
 This project reveals essential opportunities to enhance emergency response services. 
 By analyzing call volumes, response times, officer performance, and mental health trends, strategic improvements can be made to ensure public safety,
 reduce response delays, and address mental health-related emergencies more effectively.
+
+
+## 📣 Community Poll: What's the Future of Public Safety?
+
+We’re running a [**GitHub Discussion Poll**](https://github.com/your-username/your-repo/discussions) to gather feedback from devs, analysts, and changemakers like you.
+
+> 🗳️ Vote on what matters most: Mental health support? AI dispatch? Data tagging?
+
+Your insights will help refine the project and its real-world impact.  
+⭐ Star and Watch this repo to join the journey!
