@@ -149,7 +149,7 @@ reduce response delays, and address mental health-related emergencies more effec
 
 ## 📣 Community Poll: What's the Future of Public Safety?
 
-We’re running a [**GitHub Discussion Poll**](https://github.com/your-username/your-repo/discussions) to gather feedback from devs, analysts, and changemakers like you.
+We’re running a [**GitHub Discussion Poll**](https://github.com/DevMuzee/APD_Call_Analysis/discussions) to gather feedback from devs, analysts, and changemakers like you.
 
 > 🗳️ Vote on what matters most: Mental health support? AI dispatch? Data tagging?
 
